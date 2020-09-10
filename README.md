@@ -1,6 +1,8 @@
 # Computer Architecture Lab 💻(summer 99)
 >Computer Eng. Dept., Amirkabir University of Tech.
 
+<!-- sd -->
+
 ### 👥Collaborators
 
 - [Negin Hajisobhani](https://github.com/neginhsobhani)
